@@ -43,6 +43,6 @@ myModuleName/
 +-- img
     +-- sample.png
 +-- views
-    +-- myModuleName.js
+    +-- myModuleName.html
 +-- routes.js
 ```
