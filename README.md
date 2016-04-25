@@ -32,7 +32,7 @@ e.g. angular, jQuery, etc. The modules directory consists of many frontend compo
 
 #### Sub-directories
 
-#### public/modules
+##### public/modules
 Modules in Mini MEAN follows a general folder structure. 
 ```
 myModuleName/
